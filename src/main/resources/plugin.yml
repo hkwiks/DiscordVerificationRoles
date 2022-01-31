@@ -1,0 +1,5 @@
+name: DiscordVerificationRoles
+version: '${version}'
+main: ua.eizzek.discordverificationroles.DiscordVerification
+authors: [ eiZZek ]
+website: https://github.com/hkwiks/DiscordVerificationRoles
